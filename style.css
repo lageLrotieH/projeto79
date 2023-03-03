@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    color:black;
+    text-align: center;
+}
+input,button{
+    margin-bottom: 20px;
+    background-color: darkslategray;
+    padding: 10px;
+}
